@@ -38,7 +38,7 @@ public class Funcionario extends Pessoa{
 
     @Override
     public String toString() {
-        return "Desafio1.Funcionario{" +
+        return "Funcionario{" +
                 "matricula='" + matricula + '\'' +
                 ", cargo='" + cargo + '\'' +
                 ", salario='" + salario + '\'' +
